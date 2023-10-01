@@ -22,7 +22,7 @@ namespace PKHeX.Core.AutoMod
         public static string LEVEL_INVALID { get; set; } =
             "### Error\n- El nivel solicitado es inferior al nivel mínimo posible para **{0}**. El nivel mínimo requerido es **{1}**.\n\n```📝Soluciones:\n• Cambia el nivel del pokemon solicitado al nivel {1}```";
         public static string SHINY_INVALID { get; set; } =
-            "### Error\n- Valor shiny establecido **(ShinyType.{0})** no es posible para el conjunto solicitado.\n\n```📝Soluciones:\n• Verificar que no se esta solicitando un pokemon con Shiny Lock, de ser el caso puedes eliminar (Shiny: Yes) del conjunto!```\n\n### Consejo\n- Puedes verificar la lista de pokemons con Shiny Lock aqui [(Click Aqui)](https://i.imgur.com/RRdpOVu.jpg)";
+            "### Error\n- Valor shiny establecido **(ShinyType.{0})** no es posible para el conjunto solicitado.\n\n```📝Soluciones:\n• Verificar que no se esta solicitando un pokemon con Shiny Lock, de ser el caso puedes eliminar (Shiny: Yes) del conjunto!```\n\n### Consejo\n- Puedes verificar la lista de pokemons con Shiny Lock aqui [(Click Aqui)](https://i.imgur.com/kstbtVc.png)";
         public static string ALPHA_INVALID { get; set; } = "### Error\n- El Pokémon solicitado no pueden ser alfa.";
         public static string BALL_INVALID { get; set; } =
             "### Error\n- **{0} Ball** no es posible para el conjunto solicitado.";
